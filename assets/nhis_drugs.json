@@ -1,0 +1,3705 @@
+[
+    {
+        "CODE": "ACETAZIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Acetazolamide Injection, 500 mg",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 28,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "ACETAZTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Acetazolamide Tablet, 250 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.25,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "ACETYLIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Acetylcysteine Injection, 200 mg/mL",
+        "UNIT OF PRICING": "1 mL",
+        "PRICE (GHC)": 54.6,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "ACETYLTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Acetylsalicylic Acid Tablet, 300 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.1,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "ACETYLDT1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Acetylsalicylic Acid Tablet, 75 mg (Dispersible)",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.08,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "ACTCHAPO1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Activated Charcoal Powder, 50 g",
+        "UNIT OF PRICING": "50 G",
+        "PRICE (GHC)": 1,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "ACICLOCR1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Acyclovir Cream, 5%",
+        "UNIT OF PRICING": "5G",
+        "PRICE (GHC)": 10,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "ACICLOEO1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Acyclovir Eye Ointment, 3%",
+        "UNIT OF PRICING": "2G",
+        "PRICE (GHC)": 42.5,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "ACICLOIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Acyclovir Injection, 250 mg vial",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 41.7,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "ACICLOSU2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Acyclovir Suspension, 200 mg/5 mL",
+        "UNIT OF PRICING": "20 mL",
+        "PRICE (GHC)": 47.6,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "ACICLOTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Acyclovir Tablet, 200 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1.12,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "ADRENAIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Adrenaline Injection, 1 mg/1mL (1:1000)",
+        "UNIT OF PRICING": "1 mL",
+        "PRICE (GHC)": 3,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "ADRENAIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Adrenaline Injection, 1:10,000",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 4.2,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "ADRIAMIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Adriamycin Injection, 50 mg",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 56.5,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "ALBENDSY1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Albendazole Syrup, 100 mg/5 mL",
+        "UNIT OF PRICING": "20 mL",
+        "PRICE (GHC)": 1.39,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "ALBENDTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Albendazole Tablet, 200 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 3,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "ALBENDTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Albendazole Tablet, 400 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.43,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "ALLOPUTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Allopurinol Tablet, 100 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.66,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "ALLOPUTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Allopurinol Tablet, 300 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.88,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "AMIACIIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amino Acid Solution Injection, 10%",
+        "UNIT OF PRICING": "200 mL",
+        "PRICE (GHC)": 65,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "AMIACIIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amino Acid Solution Injection, 20%",
+        "UNIT OF PRICING": "200 mL",
+        "PRICE (GHC)": 31.2,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "AMINOPIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Aminophylline Injection, 250 mg/10 mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 5,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "AMIODATA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amiodarone Tablet, 200 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.8,
+        "LEVEL OF PRESCRIBING": "SM"
+    },
+    {
+        "CODE": "AMITRITA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amitriptyline Tablet, 10 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.4,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "AMITRITA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amitriptyline Tablet, 25 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.12,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "AMITRITA3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amitriptyline Tablet, 50 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.5,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "AMLODITA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amlodipine Tablet, 10 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.06,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "AMLODITA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amlodipine Tablet, 5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.05,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "AMOARTPO2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amodiaquine + Artesunate Granular Powder, 150 mg +\r50 mg",
+        "UNIT OF PRICING": "Sachet",
+        "PRICE (GHC)": 2,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "AMOARTPO1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amodiaquine + Artesunate Granular Powder, 75 mg +",
+        "UNIT OF PRICING": "Sachet",
+        "PRICE (GHC)": 1.35,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "AMOARTTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amodiaquine + Artesunate Tablet, 67.5 mg + 25 mg (6",
+        "UNIT OF PRICING": "1 Course",
+        "PRICE (GHC)": 3.45,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "AMOARTTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amodiaquine + Artesunate Tablet, 135 mg + 50 mg (12",
+        "UNIT OF PRICING": "1 Course",
+        "PRICE (GHC)": 2.59,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "AMOARTTA3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amodiaquine + Artesunate Tablet, 67.5 mg + 25 mg",
+        "UNIT OF PRICING": "1 Course",
+        "PRICE (GHC)": 0.65,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "AMOARTTA4",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amodiaquine + Artesunate Tablet, 135 mg + 50 mg (3's)",
+        "UNIT OF PRICING": "1 Course",
+        "PRICE (GHC)": 0.7,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "AMOARTTA5",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amodiaquine + Artesunate Tablet, 270 mg + 100 mg",
+        "UNIT OF PRICING": "1 Course",
+        "PRICE (GHC)": 1.28,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "AMOARTTA6",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amodiaquine + Artesunate Tablet, 270 mg + 100 mg",
+        "UNIT OF PRICING": "1 Course",
+        "PRICE (GHC)": 2.15,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "COAMOXIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amoxicillin + Clavulanic Acid Injection, 1.2g",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 7.26,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "COAMOXIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amoxicillin + Clavulanic Acid Injection, 500 mg + 100",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 9,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "COAMOXSU1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amoxicillin + Clavulanic Acid Suspension, 250 mg + 62\rmg",
+        "UNIT OF PRICING": "70 mL",
+        "PRICE (GHC)": 9.03,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "COAMOXSU2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amoxicillin + Clavulanic Acid Suspension, 400 mg + 57\rmg",
+        "UNIT OF PRICING": "70 mL",
+        "PRICE (GHC)": 11.1,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "COAMOXTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amoxicillin + Clavulanic Acid Tablet, 500 mg + 125 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1.07,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "COAMOXTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amoxicillin + Clavulanic Acid Tablet, 875 mg + 125 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1.3,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "AMOXICCA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amoxicillin Capsule, 250 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": 0.13,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "AMOXICCA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amoxicillin Capsule, 500 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": 0.24,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "AMOXICSU1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Amoxicillin Suspension, 125 mg/5 mL",
+        "UNIT OF PRICING": "100 mL",
+        "PRICE (GHC)": 4,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "AMPICIIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ampicillin Injection, 500 mg",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 1.5,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "ANASTRTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Anastrozole Tablet, 1 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 6.5,
+        "LEVEL OF PRESCRIBING": "SM"
+    },
+    {
+        "CODE": "ANIMGLIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Anti RH Immunoglobulin Injection, 1500IU /5ml",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 250,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "AQUEOUCR1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Aqueous Cream BP",
+        "UNIT OF PRICING": "100 G",
+        "PRICE (GHC)": 15,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "ARTLUMSU1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Artemether + Lumefantrine Suspension, (Powder For\rReconstitution) 20 mg + 120 mg / 5 mL",
+        "UNIT OF PRICING": "100 mL",
+        "PRICE (GHC)": 10,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "ARTLUMTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Artemether + Lumefantrine Tablet, 20 mg + 120 mg\r(24’s)",
+        "UNIT OF PRICING": "1 Course",
+        "PRICE (GHC)": 2.24,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "ARTLUMTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Artemether + Lumefantrine Tablet, 20 mg + 120 mg",
+        "UNIT OF PRICING": "1 Course",
+        "PRICE (GHC)": 0.61,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "ARTLUMTA3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Artemether + Lumefantrine Tablet, 20 mg + 120 mg",
+        "UNIT OF PRICING": "1 Course",
+        "PRICE (GHC)": 1.25,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "ARTLUMTA4",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Artemether + Lumefantrine Tablet, 20 mg + 120 mg",
+        "UNIT OF PRICING": "1 Course",
+        "PRICE (GHC)": 1.88,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "ARTLUMDT1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Artermether + Lumefantrine Dispersible,(20 mg + 120\rmg) Tablet",
+        "UNIT OF PRICING": "6 Tablets",
+        "PRICE (GHC)": 5,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "ARTESUIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Artesunate Injection, 30 mg",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 3.18,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "ARTESUIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Artesunate Injection, 60 mg",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 3.18,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "ARTESUIN3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Artesunate injection 120mg",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 6.25,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "ARTESURE1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Artesunate Suppository, 50 mg",
+        "UNIT OF PRICING": "Supp.",
+        "PRICE (GHC)": 3.3,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "ARTESURE2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Artesunate suppository 100mg",
+        "UNIT OF PRICING": "Supp",
+        "PRICE (GHC)": 3.75,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "ATEHYDTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Atenolol + Hydrochlorthiazide Tablet, 100 mg + 25 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 3.5,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "ATEHYDTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Atenolol + Hydrochlorthiazide Tablet, 50 mg + 25 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "ATENOLIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Atenolol Injection, 500 microgram/10 mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 6.83,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "ATENOLTA3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Atenolol Tablet, 100 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.32,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "ATENOLTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Atenolol Tablet, 25 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.24,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "ATENOLTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Atenolol Tablet, 50 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.2,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "ATORVATA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Atorvastatin Tablet, 10 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.13,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "ATORVATA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Atorvastatin Tablet, 20 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.18,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "ATROPIID1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Atropine Eye Drops, 1%",
+        "UNIT OF PRICING": "10 mL",
+        "PRICE (GHC)": 20,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "ATROPIIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Atropine Injection, 0.6 mg/mL",
+        "UNIT OF PRICING": "1 mL",
+        "PRICE (GHC)": 3,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "AZITHRCA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Azithromycin Capsule, 250 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": 1.5,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "AZITHRSU1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Azithromycin Oral Suspension, 200 mg/5 mL/15mL",
+        "UNIT OF PRICING": "15 mL",
+        "PRICE (GHC)": 8.55,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "AZITHRSU2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Azithromycin Oral Suspension, 200 mg/5 mL/30mL",
+        "UNIT OF PRICING": "30 mL",
+        "PRICE (GHC)": 10,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "BADOESIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Badoe's Solution Injection, 1000 mL",
+        "UNIT OF PRICING": "1000 mL",
+        "PRICE (GHC)": 9.27,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "BECDIPGA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Beclometasone dipropionate Inhaler, 100\rmicrogram/metered dose (200 doses)",
+        "UNIT OF PRICING": "Inhaler",
+        "PRICE (GHC)": 35.9,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "BECDIPGA3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Beclometasone dipropionate Inhaler, 200\rmicrogram/metered dose (200 doses)",
+        "UNIT OF PRICING": "Inhaler",
+        "PRICE (GHC)": 63.3,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "BECDIPGA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Beclometasone dipropionate Inhaler, 50\rmicrogram/metered dose (200 doses)",
+        "UNIT OF PRICING": "Inhaler",
+        "PRICE (GHC)": 52.38,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "BENDROTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Bendroflumethiazide Tablet, 2.5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.05,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "BENZATIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Benzatropine Injection, 1 mg/mL",
+        "UNIT OF PRICING": "1 mL",
+        "PRICE (GHC)": 1,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "BENZATTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Benzatropine Tablet, 2 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.38,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "BEACSAOI1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Benzoic Acid + Salicylic Acid Ointment, 6% + 3%",
+        "UNIT OF PRICING": "25 G",
+        "PRICE (GHC)": 6.5,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "BENPERCR2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Benzoyl Peroxide Cream, 10%",
+        "UNIT OF PRICING": "30 G",
+        "PRICE (GHC)": 46.5,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "BENPERCR1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Benzoyl Peroxide Cream, 5%",
+        "UNIT OF PRICING": "30 G",
+        "PRICE (GHC)": 44,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "BENBENLO1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Benzyl Benzoate Lotion, 25%",
+        "UNIT OF PRICING": "30mL",
+        "PRICE (GHC)": 10.75,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "BENBENLO2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Benzyl Benzoate Lotion, 25%",
+        "UNIT OF PRICING": "100 mL",
+        "PRICE (GHC)": 8,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "BENZYLIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Benzylpenicillin Injection, 1 MU",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 1,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "BENZYLIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Benzylpenicillin Injection, 5 MU",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 1.68,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "BETVALCR2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Betamethasone Valerate cream, 0.1%",
+        "UNIT OF PRICING": "15 G",
+        "PRICE (GHC)": 13.5,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "BETAXOID1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Betaxolol HCL Eye Drops, 0.5%",
+        "UNIT OF PRICING": "5 mL",
+        "PRICE (GHC)": 20,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "BISACOTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Bisacodyl Tablet, 5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.5,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "BISOPRTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Bisoprolol Tablet 5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.29,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "BISOPRTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Bisoprolol Tablet 10 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.48,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "BROMOCTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Bromocriptine Tablet, 2.5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 3.5,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "BUDFORGA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Budesonide + Formoterol Inhaler 160 microgram/4.5\rmicrogram (60 Doses)",
+        "UNIT OF PRICING": "Inhaler",
+        "PRICE (GHC)": 100,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "BUDFORGA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Budesonide + Formoterol Inhaler 80 microgram/4.5\rmicrogram (60 Doses)",
+        "UNIT OF PRICING": "Inhaler",
+        "PRICE (GHC)": 70,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "BUDESOGA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Budesonide DPI, 100 microgram (100 Doses)",
+        "UNIT OF PRICING": "Inhaler",
+        "PRICE (GHC)": 96,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "BUDESOGA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Budesonide DPI, 200 microgram (100 Doses)",
+        "UNIT OF PRICING": "Inhaler",
+        "PRICE (GHC)": 51.69,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "CALAMICR1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Calamine Cream, 15%",
+        "UNIT OF PRICING": "40 G",
+        "PRICE (GHC)": 6.5,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "CALAMILO1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Calamine Lotion, 15%",
+        "UNIT OF PRICING": "200 mL",
+        "PRICE (GHC)": 7,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "CALCIFTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Calciferol Tablet, 10,000 units",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 23,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "CALGLUIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Calcium  Gluconate Injection, 100 mg/mL in 10 mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 9,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "CALCARTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Calcium Carbonate Tablet, 500 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "CALVITTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Calcium with Vitamin D Tablet, (97 mg + 10 microgram)",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.7,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "CAPECITA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Capecitabine Tablet, 500 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 9,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "CARBAMTA3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Carbamazepine Sustained-Release Tablet, 200 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "CARBAMTA4",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Carbamazepine Sustained-Release Tablet, 400 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 2.45,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "CARBAMTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Carbamazepine Tablet, 100 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.25,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "CARBAMTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Carbamazepine Tablet, 200 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1.06,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "CARBIMTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Carbimazole Tablet, 20 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1.4,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "CARBIMTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Carbimazole Tablet, 5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.66,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "CARBOCSY1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Carbocisteine Paediatric Syrup , 125 mg/5 mL",
+        "UNIT OF PRICING": "100 mL",
+        "PRICE (GHC)": 7,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "CARBOCSY2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Carbocisteine Syrup, 250 mg/5 mL",
+        "UNIT OF PRICING": "100 mL",
+        "PRICE (GHC)": 5.58,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "CARVEDTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Carvedilol Tablet 3.125 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.57,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "CARVEDTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Carvedilol Tablet 12.5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.8,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "CEFACLCA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Cefaclor Capsule, 250 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": 1.95,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "CEFACLCA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Cefaclor Capsule, 500 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": 2.89,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "CEFACLSU1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Cefaclor Suspension, 125 mg/5 mL",
+        "UNIT OF PRICING": "100 mL",
+        "PRICE (GHC)": 22.54,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "CEFACLSU2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Cefaclor Suspension, 250 mg/5 mL",
+        "UNIT OF PRICING": "100 mL",
+        "PRICE (GHC)": 23.08,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "CEFOTAIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Cefotaxime Injection, 1 g",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 11,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "CEFOTAIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Cefotaxime Injection, 500 mg",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 7,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "CEFTRIIN3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ceftriazone Injection, 1g",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 4.73,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "CEFUROIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Cefuroxime Injection, 750 mg",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 3.13,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "CEFUROIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Cefuroxime Injection 1.5 g",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 7,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "CEFUROSU1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Cefuroxime Suspension, 125 mg/5 mL",
+        "UNIT OF PRICING": "50mL",
+        "PRICE (GHC)": 9.92,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "CEFUROTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Cefuroxime Tablet, 125 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1.74,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "CEFUROTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Cefuroxime Tablet, 250 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.89,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "CELECOTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Celecoxib Tablet 100 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 2,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "CELECOTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Celecoxib Tablet 200 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 2,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "CETIRISY1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Cetirizine Syrup, 5 mg/5 mL",
+        "UNIT OF PRICING": "30 mL",
+        "PRICE (GHC)": 4,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "CETIRITA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Cetirizine Tablet, 10 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.03,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "CETRIMSO1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Cetrimide Solution",
+        "UNIT OF PRICING": "200 mL",
+        "PRICE (GHC)": 1.85,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "CHLORAED1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Chloramphenicol Ear Drops, 5%",
+        "UNIT OF PRICING": "10 mL",
+        "PRICE (GHC)": 3,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "CHLORAID1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Chloramphenicol Eye Drops, 0.5%",
+        "UNIT OF PRICING": "10 mL",
+        "PRICE (GHC)": 3,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "CHLORAEO1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Chloramphenicol Eye Ointment, 1%",
+        "UNIT OF PRICING": "5 G",
+        "PRICE (GHC)": 3,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "CHLORAIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Chloramphenicol Injection, 1 g",
+        "UNIT OF PRICING": "1 G",
+        "PRICE (GHC)": 3.9,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "CHLORASU1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Chloramphenicol Suspension, 125mg/5mL",
+        "UNIT OF PRICING": "100 mL",
+        "PRICE (GHC)": 4.5,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "CHLORHCR1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Chlorhexidine Cream, 1%",
+        "UNIT OF PRICING": "15 G",
+        "PRICE (GHC)": 10,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "CHLORHGE1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Chlorhexidine Gel 7.1 % ( digluconate ) delivering 4%\rchlorhexidine",
+        "UNIT OF PRICING": "25g",
+        "PRICE (GHC)": 8.5,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "CHLORHMW2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Chlorhexidine Mouth wash 0.12%",
+        "UNIT OF PRICING": "300ml",
+        "PRICE (GHC)": 9.65,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "CHLORHSO1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Chlorhexidine Solution, 2.5%",
+        "UNIT OF PRICING": "100 mL",
+        "PRICE (GHC)": 7.25,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "CHLPHESY1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Chlorphenamine Syrup, 2 mg/5 mL",
+        "UNIT OF PRICING": "100 mL",
+        "PRICE (GHC)": 5,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "CHLPHETA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Chlorphenamine Tablet, 4 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.09,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "CHLPROIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Chlorpromazine Injection, 25 mg/mL in 2 mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 5,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "CHLPROTA3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Chlorpromazine Tablet, 100 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.21,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "CHLPROTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Chlorpromazine Tablet, 25 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.18,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "CHLPROTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Chlorpromazine Tablet, 50 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.2,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "CHREFLIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Cholera Replacement Fluid Injection, (5:4:1) 1 Litre",
+        "UNIT OF PRICING": "1000 mL",
+        "PRICE (GHC)": 10.58,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "CHREFLIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Cholera Replacement Fluid Injection, (5:4:1) 500 mL",
+        "UNIT OF PRICING": "500 mL",
+        "PRICE (GHC)": 6.2,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "CIPTINTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ciprofloxacin + Tinidazole Tablet, 500 mg + 500 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1.5,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "CIPROFID1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ciprofloxacin Eye Drops, 0.3%",
+        "UNIT OF PRICING": "10 mL",
+        "PRICE (GHC)": 2.08,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "CIPROFIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ciprofloxacin Infusion, 2 mg/mL in 100 mL",
+        "UNIT OF PRICING": "Bottle",
+        "PRICE (GHC)": 2.97,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "CIPROFTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ciprofloxacin Tablet, 250 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.1,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "CIPROFTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ciprofloxacin Tablet, 500 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.23,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "CLARITCA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Clarithromycin Capsule, 250 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": 1.69,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "CLARITCA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Clarithromycin Capsule, 500 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": 2.82,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "CLARITSU1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Clarithromycin Paediatric Suspension, 125 mg/5 mL",
+        "UNIT OF PRICING": "100 mL",
+        "PRICE (GHC)": 15.75,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "CLINDACA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Clindamycin Capsule, 150 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": 0.39,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "CLINDAIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Clindamycin Injection, 150 mg/mL in 2 mL",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 16.68,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "CLINDASU1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Clindamycin Suspension, 75 mg/5 mL",
+        "UNIT OF PRICING": "100 mL",
+        "PRICE (GHC)": 65,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "CLINDASO1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Clindamycin Topical Solution, 1%",
+        "UNIT OF PRICING": "30 mL",
+        "PRICE (GHC)": 77.5,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "CLOPROCR1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Clobetasol Propionate Cream, 0.05%",
+        "UNIT OF PRICING": "15 G",
+        "PRICE (GHC)": 4,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "CLOHYDCR1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Clotrimazole + Hydrocortisone Cream, 1% + 1%",
+        "UNIT OF PRICING": "15 G",
+        "PRICE (GHC)": 5,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "CLOTRICR1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Clotrimazole Cream, 1%",
+        "UNIT OF PRICING": "30 G",
+        "PRICE (GHC)": 5,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "CLOTRICR2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Clotrimazole Cream, 2%",
+        "UNIT OF PRICING": "30 G",
+        "PRICE (GHC)": 5,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "CLOTRIVP1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Clotrimazole Pessary, 100 mg",
+        "UNIT OF PRICING": "6 Pess.",
+        "PRICE (GHC)": 5,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "CLOTRIVP2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Clotrimazole Pessary, 200 mg",
+        "UNIT OF PRICING": "3 Pess.",
+        "PRICE (GHC)": 6,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "CLOXACIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Cloxacillin Injection, 250 mg",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": "0.58",
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "CLOXACIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Cloxacillin Injection, 500 mg",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": "5.50",
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "CODEINTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Codeine Tablet, 30 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "0.70",
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "COOENOTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Conjugated Oestrogen + Norgesterol Tablet, 625\rmicrogram + 150 microgram",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "1.40",
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "CONOESTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Conjugated Oestrogen Tablet, 625 microgram",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "0.70",
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "CONOESVC1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Conjugated Oestrogen Vaginal cream, 625 microgram/g",
+        "UNIT OF PRICING": "1 G",
+        "PRICE (GHC)": "80.00",
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "CORANTID1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Corticosteroid + Antibiotic Eye Drops",
+        "UNIT OF PRICING": "10 mL",
+        "PRICE (GHC)": "14.00",
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "CORANTEO1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Corticosteroid + Antibiotic Eye Ointment",
+        "UNIT OF PRICING": "10 G",
+        "PRICE (GHC)": "16.00",
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "COTRIMSU1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Co-trimoxazole Suspension, (200+40) mg/5 mL",
+        "UNIT OF PRICING": "100 mL",
+        "PRICE (GHC)": "4.00",
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "COTRIMTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Cotrimoxazole Tablet, (400+80) mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "0.10",
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "CYCLOPID1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Cyclopentolate Eye Drops, 1%",
+        "UNIT OF PRICING": "5 mL",
+        "PRICE (GHC)": "22.00",
+        "LEVEL OF PRESCRIBING": "SM"
+    },
+    {
+        "CODE": "CYCLOPIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Cyclophosphamide Injection, 500 mg",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": "12.00",
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "DALSODIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Dalteparin Sodium Injection, 5000 units/0.2 mL",
+        "UNIT OF PRICING": "Prefilled Syri",
+        "PRICE (GHC)": "ge 32.00",
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "DARROWIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Darrow's Solution Injection, Half Strength 250 mL",
+        "UNIT OF PRICING": "250 mL",
+        "PRICE (GHC)": "3.54",
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "DEXAMEID1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Dexamethasone Eye Drops, 1%",
+        "UNIT OF PRICING": "5 mL",
+        "PRICE (GHC)": "18.00",
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "DEXAMEEO1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Dexamethasone Eye Ointment, 1%",
+        "UNIT OF PRICING": "5 G",
+        "PRICE (GHC)": "17.00",
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "DEXAMEIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Dexamethasone Injection, 4 mg/mL",
+        "UNIT OF PRICING": "1mL",
+        "PRICE (GHC)": "1.00",
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "DEXAMEIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Dexamethasone Injection, 8 mg/2 mL",
+        "UNIT OF PRICING": "2mL",
+        "PRICE (GHC)": "1.30",
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "DEXAMETA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Dexamethasone Tablet, 500 microgram",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "0.04",
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "DEXTROTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Dextromethorphan Containing Cough Syrup",
+        "UNIT OF PRICING": "100ml",
+        "PRICE (GHC)": "9.50",
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "DESOCHIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Dextrose in Sodium Chloride Intravenous Infusion, 4.3%\rin 0.18% (250 mL)",
+        "UNIT OF PRICING": "250 mL",
+        "PRICE (GHC)": "4.80",
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "DESOCHIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Dextrose in Sodium Chloride Intravenous Infusion, 5%\rin 0.9% (500 mL)",
+        "UNIT OF PRICING": "500 mL",
+        "PRICE (GHC)": "4.86",
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "DEXTROIN3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Dextrose Infusion, 10% (250 mL)",
+        "UNIT OF PRICING": "250 mL",
+        "PRICE (GHC)": "5.00",
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "DEXTROIN4",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Dextrose Infusion, 10% (500 mL)",
+        "UNIT OF PRICING": "500 mL",
+        "PRICE (GHC)": "6.00",
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "DEXTROIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Dextrose Infusion, 5% (250 mL)",
+        "UNIT OF PRICING": "250 mL",
+        "PRICE (GHC)": "5.00",
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "DEXTROIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Dextrose Infusion, 5% (500 mL)",
+        "UNIT OF PRICING": "500 mL",
+        "PRICE (GHC)": "4.86",
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "DEXTROIN6",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Dextrose Infusion, 50% (250 mL)",
+        "UNIT OF PRICING": "250 mL",
+        "PRICE (GHC)": "6.00",
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "DIAZEPIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Diazepam Injection, 5 mg/mL in 2 mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": "4.75",
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "DIAZEPRS1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Diazepam Rectal Tubes, 2 mg/mL in 1.25 mL",
+        "UNIT OF PRICING": "Rectal Tube",
+        "PRICE (GHC)": "3.15",
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "DIAZEPTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Diazepam Tablet, 10 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "0.10",
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "DIAZEPTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Diazepam Tablet, 5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "0.05",
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "DICLOFCA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Diclofenac Capsule, 75 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": "0.17",
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "DICLOFGE1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Diclofenac Gel",
+        "UNIT OF PRICING": "30 G",
+        "PRICE (GHC)": "2.31",
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "DICLOFIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Diclofenac Injection, 75mg/3mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": "0.42",
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "DICLOFRE2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Diclofenac Suppository, 100 mg",
+        "UNIT OF PRICING": "Supp.",
+        "PRICE (GHC)": "0.41",
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "DICLOFRE1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Diclofenac Suppository, 50 mg",
+        "UNIT OF PRICING": "Supp.",
+        "PRICE (GHC)": "0.80",
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "DICLOFTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Diclofenac Tablet, 50 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "0.04",
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "DIESTITA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Diethylstilboestrol Tablet, 1 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "0.50",
+        "LEVEL OF PRESCRIBING": "SM"
+    },
+    {
+        "CODE": "DIESTITA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Diethylstilboestrol Tablet, 5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "26.80",
+        "LEVEL OF PRESCRIBING": "SM"
+    },
+    {
+        "CODE": "DIGOXIEL1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Digoxin Elixir, 50 microgram/mL",
+        "UNIT OF PRICING": "60 mL",
+        "PRICE (GHC)": "35.74",
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "DIGOXITA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Digoxin Tablet, 125 microgram",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "1.25",
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "DIGOXITA3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Digoxin Tablet, 250 microgram",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "1.60",
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "DIGOXITA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Digoxin Tablet, 62.5 microgram",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "1.20",
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "DIHPIPPO1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Dihydroartemisin + Piperaquine Granular Powder, 10\rmg + 80 mg",
+        "UNIT OF PRICING": "Sachet",
+        "PRICE (GHC)": "1.95",
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "DIHYDRTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Dihydrocodeine Tablet, 30 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "0.80",
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "DISOPYCA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Disopyramide Capsule, 100 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": "23.11",
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "DISPHOIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Disopyramide Phosphate Injection, 10 mg/mL in 5 mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": "12.25",
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "DOCETAIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Docetaxel Injection, 20 mg/mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": "275.00",
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "DOMPERTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Domperidone Tablet, 10 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "1.10",
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "DOPAMIIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Dopamine Injection, 40 mg/mL in 5 mL",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": "25.00",
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "DOXAPRIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Doxapram Injection, 20 mg/mL in 5 mL",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": "12.60",
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "DOXYCYCA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Doxycycline Capsule, 100 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": "0.19",
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "ENOSODIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Enoxaparin Sodium Injection, 40 mg/0.4 mL",
+        "UNIT OF PRICING": "Prefilled Syri",
+        "PRICE (GHC)": "ge 33.20",
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "EPHEDRIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ephedrine HCI Injection, 30 mg/mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": "9.92",
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "EPHEDRND1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ephedrine Nasal Drops, 0.5%",
+        "UNIT OF PRICING": "10 mL",
+        "PRICE (GHC)": "4.00",
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "EPHEDRND2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ephedrine Nasal Drops, 1%",
+        "UNIT OF PRICING": "10 mL",
+        "PRICE (GHC)": "5.00",
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "ERGOMEIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ergometrine Injection, 0.2 mg/mL",
+        "UNIT OF PRICING": "1 mL",
+        "PRICE (GHC)": "5.00",
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "ERGOMEIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ergometrine Injection, 0.5 mg/ml",
+        "UNIT OF PRICING": "1 mL",
+        "PRICE (GHC)": "5.10",
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "ERGOMETA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ergometrine Tablet, 0.5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "0.20",
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "ERGOTATA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ergotamine Tablet, 2 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "2.75",
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "ERYTHRSY1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Erythromycin Syrup, 125 mg/5 mL",
+        "UNIT OF PRICING": "100 mL",
+        "PRICE (GHC)": "6.00",
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "ERYTHRTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Erythromycin Tablet, 250 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "0.30",
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "ESOMEPCA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Esomeprazole Capsule, 20 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": "5.50",
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "ESOMEPCA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Esomeprazole Capsule, 40 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": "1.67",
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "ETHOSUSY1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ethosuximide Syrup, 250 mg/5 mL",
+        "UNIT OF PRICING": "200 mL",
+        "PRICE (GHC)": "22.58",
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "ETHOSUTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ethosuximide Tablet, 250 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "4.55",
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "FEAMCISU1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ferric Ammonium Citrate Mixture (FAC)",
+        "UNIT OF PRICING": "200 mL",
+        "PRICE (GHC)": "3.00",
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "FERFUMTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ferrous Fumarate Tablet, 100 mg (Elemental Iron)",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "0.08",
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "FERSULSY1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ferrous Sulphate (BPC) Syrup, 60 mg/5 mL",
+        "UNIT OF PRICING": "200 mL",
+        "PRICE (GHC)": "2.77",
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "FESUFOTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ferrous Sulphate + Folic Acid Tablet, 50 mg (Elemental\rIron) + 400 microgram",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "0.41",
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "FERSULTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ferrous Sulphate Tablet, 60 mg (Elemental Iron)",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "0.05",
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "FINASTTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Finasteride Tablet, 5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "0.81",
+        "LEVEL OF PRESCRIBING": "SM"
+    },
+    {
+        "CODE": "FLUCLOCA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Flucloxacillin Capsule, 250 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": "0.32",
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "FLUCLOIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Flucloxacillin Injection, 250 mg",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": "7.00",
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "FLUCLOIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Flucloxacillin Injection, 500 mg",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": "7.00",
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "FLUCLOSU1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Flucloxacillin Suspension, 125 mg/5 mL",
+        "UNIT OF PRICING": "100 mL",
+        "PRICE (GHC)": "4.90",
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "FLUCONCA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Fluconazole Capsule, 150 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": "3.60",
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "FLUCONCA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Fluconazole Capsule, 200 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": "4.00",
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "FLUCONSU1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Fluconazole Suspension, 10 mg/mL",
+        "UNIT OF PRICING": "35 mL",
+        "PRICE (GHC)": "12.00",
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "FLUCONSU2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Fluconazole Suspension, 50 mg/5 mL",
+        "UNIT OF PRICING": "35 mL",
+        "PRICE (GHC)": "13.35",
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "FLUCONTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Fluconazole Tablet, 50 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "4.38",
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "FLUDROTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Fludrocortisone Tablet, 100 microgram",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "8.20",
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "FLUOXECA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Fluoxetine Capsule, 20 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": "0.70",
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "FLUPENTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Flupentixol Tablet, 1mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "0.88",
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "FLUPENTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Flupentixol Tablet, 500 microgram",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": "0.88",
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "FLUDECIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Fluphenazine Deconoate Injection, 25 mg/mL",
+        "UNIT OF PRICING": "1 mL",
+        "PRICE (GHC)": "8.00",
+        "LEVEL OF PRESCRIBING": "SM"
+    },
+    {
+        "CODE": "FLUSALGA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Fluticasone + Salmeterol Inhaler, 250 microgram/50\rmicrogram (60 Doses)",
+        "UNIT OF PRICING": "Inhaler",
+        "PRICE (GHC)": "81.30",
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "FLUTICGA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Fluticasone MDI, 125 microgram (120 Dose)",
+        "UNIT OF PRICING": "Inhaler",
+        "PRICE (GHC)": 60,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "FLUTICGA3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Fluticasone MDI, 250 microgram (120 Dose)",
+        "UNIT OF PRICING": "Inhaler",
+        "PRICE (GHC)": 65,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "FLUVASCA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Fluvastatin Capsule, 20 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": 2.3,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "FOLACITA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Folic Acid Tablet, 5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.02,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "FUROSEIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Furosemide Injection, 10 mg/mL in 2 mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 0.35,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "FUROSETA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Furosemide Tablet, 40 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.13,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "GELATIIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Gelatin Infusion (Succinylated Gelatin)",
+        "UNIT OF PRICING": "500 mL",
+        "PRICE (GHC)": 45,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "GENTAMED1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Gentamicin Ear Drops, 0.3%",
+        "UNIT OF PRICING": "10mL",
+        "PRICE (GHC)": 3,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "GENTAMID1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Gentamicin Eye Drops, 0.3%",
+        "UNIT OF PRICING": "10 mL",
+        "PRICE (GHC)": 3,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "GENTAMIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Gentamicin Injection, 40 mg/mL in 2 mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 1,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "GLIBENTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Glibenclamide Tablet, 5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.08,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "GLICLATA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Gliclazide Tablet, 80 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.4,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "GLIMEPTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Glimepiride Tablet, 1 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.93,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "GLIMEPTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Glimepiride Tablet, 2 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.24,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "GLIMEPTA3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Glimepiride Tablet, 3 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1.9,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "GLIMEPTA4",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Glimepiride Tablet, 4 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.34,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "GLUCAGIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Glucagon Injection, 1 mg",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 54.99,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "GLTRSUTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Glyceryl Trinitrate Sublingual Tablet, 500 microgram",
+        "UNIT OF PRICING": "100 Tablets",
+        "PRICE (GHC)": 27.3,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "GRANISIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Granisetron Injection, 1 mg/1mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 25,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "GRANISTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Granisetron Tablet, 1 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.4,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "GRISEOSU1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Griseofulvin Suspension, 125 mg/5 mL",
+        "UNIT OF PRICING": "100 mL",
+        "PRICE (GHC)": 10,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "GRISEOTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Griseofulvin Tablet, 125 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.15,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "GRISEOTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Griseofulvin Tablet, 500 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.6,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "GUAIFESY1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Guaifenesin Containing Expectorant Syrup",
+        "UNIT OF PRICING": "100ml",
+        "PRICE (GHC)": 11,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "HALOPEIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Haloperidol Injection, 5 mg/5 mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 9.2,
+        "LEVEL OF PRESCRIBING": "SM"
+    },
+    {
+        "CODE": "HALOPETA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Haloperidol Tablet, 0.5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.3,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "HALOPETA3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Haloperidol Tablet, 10 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.54,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "HALOPETA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Haloperidol Tablet, 5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.8,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "HEPARIIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Heparin Injection, 1000 units/mL in 5 mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 40,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "HEPARIIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Heparin Injection, 5000 units/mL in 1mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 40,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "HEPARIIN3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Heparin Injection, 5000 units/mL in 5 mL",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 38,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "HUIMTEIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Human Immune Tetanus Globulins Injection, 250 IU/mL",
+        "UNIT OF PRICING": "1 mL",
+        "PRICE (GHC)": 18.62,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "HUIMTEIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Human Immune Tetanus Globulins Injection, 1,500\rIU/mL (ATS)",
+        "UNIT OF PRICING": "1 mL",
+        "PRICE (GHC)": 19.59,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "HYDRALIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Hydralazine Injection, 20 mg",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 20,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "HYDRALTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Hydralazine Tablet, 25 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1.3,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "HYDROCCR1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Hydrocortisone Cream, 1%",
+        "UNIT OF PRICING": "15 G",
+        "PRICE (GHC)": 6.31,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "HYDROCID1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Hydrocortisone Eye Drops, 1%",
+        "UNIT OF PRICING": "5 mL",
+        "PRICE (GHC)": 6.72,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "HYDROCEO1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Hydrocortisone Eye Ointment, 1%",
+        "UNIT OF PRICING": "5 G",
+        "PRICE (GHC)": 5,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "HYSOSUIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Hydrocortisone Sodium Succinate Injection, 100 mg",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 4,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "HYDROXIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Hydroxocobalamin Injection, 1 mg/mL",
+        "UNIT OF PRICING": "1 mL",
+        "PRICE (GHC)": 4.75,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "HYOBUTIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Hyoscine Butylbromide Injection, 20 mg/ mL",
+        "UNIT OF PRICING": "1 mL",
+        "PRICE (GHC)": 3,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "HYOBUTTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Hyoscine Butylbromide Tablet, 10 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.6,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "IBUPROSU1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ibuprofen Suspension, 100 mg/5 mL",
+        "UNIT OF PRICING": "100 mL",
+        "PRICE (GHC)": 4.5,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "IBUPROTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ibuprofen Tablet, 200 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.06,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "IBUPROTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ibuprofen Tablet, 400 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.1,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "IMIPRATA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Imipramine Tablet, 25 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.5,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "IPRBROGA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ipratropium Bromide Nebulizer 250 micrograms",
+        "UNIT OF PRICING": "Dose",
+        "PRICE (GHC)": 3.95,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "IPRBROGA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ipratropium Bromide Nebulizer 500 micrograms",
+        "UNIT OF PRICING": "Dose",
+        "PRICE (GHC)": 5.2,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "INPRMIIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Insulin premixed (30/70) HM Injection, 100 units/mL in\r10 mL",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 29.97,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "INSSOLIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Insulin Soluble HM, 100 units/mL in 10 mL",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 29.97,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "INTRALSO1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Intralipid Solution (for TPN)",
+        "UNIT OF PRICING": "500 mL",
+        "PRICE (GHC)": 61,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "IROPOLCA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Iron (III) Polymaltose Complex Capsule",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": 0.1,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "IROPOLSU1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Iron (III) Polymaltose Complex Suspension",
+        "UNIT OF PRICING": "200 mL",
+        "PRICE (GHC)": 4.84,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "IRODEXIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Iron Dextran Injection, 100mg/2mL",
+        "UNIT OF PRICING": "2 mL",
+        "PRICE (GHC)": 2.6,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "IROSUCIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Iron Sucrose Injection, 20 mg/mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 20.74,
+        "LEVEL OF PRESCRIBING": "SM"
+    },
+    {
+        "CODE": "ISOINSIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Isophane Insulin Injection (HM), 100 units/mL in 10 mL",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 33.8,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "ISODINTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Isosorbide Dinitrate Tablet, 10 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1.21,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "ITRACOCA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Itraconazole Capsule, 100 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": 5.2,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "ITRACOSU1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Itraconazole Suspension, 10 mg/mL",
+        "UNIT OF PRICING": "30 mL",
+        "PRICE (GHC)": 19,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "KETOCOCR1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ketoconazole Cream, 30g",
+        "UNIT OF PRICING": "Tube",
+        "PRICE (GHC)": 6,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "KETOCOTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ketoconazole Tablet, 200 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.6,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "LABETAIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Labetalol Injection, 5 mg/mL in 20 mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 67.5,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "LABETATA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Labetalol Tablet, 100 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1.7,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "LABETATA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Labetalol Tablet, 200 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 2.81,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "LACTULLI1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Lactulose Liquid 3.1–3.7 g/5 mL",
+        "UNIT OF PRICING": "300 mL",
+        "PRICE (GHC)": 24,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "LEVSODTA3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Levothyroxine Sodium Tablet, 100 microgram",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.8,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "LEVSODTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Levothyroxine Sodium Tablet, 25 microgram",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.8,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "LEVSODTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Levothyroxine Sodium Tablet, 50 microgram",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.71,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "LIDOCACR1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Lidocaine Cream, 2%",
+        "UNIT OF PRICING": "15 G",
+        "PRICE (GHC)": 26.5,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "LIDOCAGE1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Lidocaine Gel, 4%",
+        "UNIT OF PRICING": "15 G",
+        "PRICE (GHC)": 30,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "LISHYDTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Lisinopril + Hydrochlorthiazide Tablet, (10 mg + 12.5",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.24,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "LISHYDTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Lisinopril + Hydrochlorthiazide Tablet, (20 mg + 12.5",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1.5,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "LISINOTA3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Lisinopril Tablet, 10 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.13,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "LISINOTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Lisinopril Tablet, 2.5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.26,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "LISINOTA4",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Lisinopril Tablet, 20 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.45,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "LISINOTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Lisinopril Tablet, 5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.25,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "LODOXAID1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Lodoxamide Eye Drops, 0.1%",
+        "UNIT OF PRICING": "10 mL",
+        "PRICE (GHC)": 39.34,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "LORAZEIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Lorazepam Injection, 4 mg/mL in 1mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 62.39,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "LORAZETA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Lorazepam Tablet, 1 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.63,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "LORAZETA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Lorazepam Tablet, 2 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.5,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "LORAZETA3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Lorazepam Tablet, 2.5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 2,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "LOSARTTA3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Losartan Tablet, 100 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.31,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "LOSARTTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Losartan Tablet, 25 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.4,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "LOSARTTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Losartan Tablet, 50 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.14,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "MAGSULIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Magnesium Sulphate Injection, 20% (10 mL)",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 6.5,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "MAGSULIN3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Magnesium Sulphate Injection, 50% (10 mL)",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 8.2,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "MAGSULPO1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Magnesium Sulphate Salt",
+        "UNIT OF PRICING": "1 G",
+        "PRICE (GHC)": 3.7,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "MATRALMI1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Magnesium Trisilicate + Aluminium Hydroxide Mixture",
+        "UNIT OF PRICING": "200 mL",
+        "PRICE (GHC)": 7,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "MATRALTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Magnesium Trisilicate + Aluminium Hydroxide Tablet",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.14,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "MAGTRIMI1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Magnesium Trisilicate Mixture",
+        "UNIT OF PRICING": "200 mL",
+        "PRICE (GHC)": 2.82,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "MAGTRITA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Magnesium Trisilicate Tablet, 500 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.1,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "MANNITIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Mannitol Injection, 10%",
+        "UNIT OF PRICING": "500 mL",
+        "PRICE (GHC)": 11,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "MANNITIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Mannitol Injection, 20%",
+        "UNIT OF PRICING": "500 mL",
+        "PRICE (GHC)": 12.02,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "MEBENDSU1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Mebendazole Suspension, 100 mg/5 mL",
+        "UNIT OF PRICING": "30 mL",
+        "PRICE (GHC)": 8,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "MEBENDTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Mebendazole Tablet, 100 mg",
+        "UNIT OF PRICING": "6 Tablets",
+        "PRICE (GHC)": 0.5,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "MEBENDTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Mebendazole Tablet, 500 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 6.9,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "MEBEVETA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Mebeverine Tablet, 135 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 2.5,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "MEDACETA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Medroxyprogesterone Acetate Tablet, 5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1.55,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "MEFACICA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Mefenamic Acid Capsule, 250 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": 0.5,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "MEFACITA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Mefenamic Acid Tablet, 500 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.69,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "METFORTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Metformin Tablet, 500 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.06,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "METHOTIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Methotrexate Injection, 2.5 mg/ mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 3.85,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "METHOTIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Methotrexate Injection, 25 mg/ mL in 2mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 25,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "METHOTTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Methotrexate Tablet, 10 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "METHOTTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Methotrexate Tablet, 2.5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "METCELID1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Methyl Cellulose Eye Drops, 0.3%",
+        "UNIT OF PRICING": "10 mL",
+        "PRICE (GHC)": 15,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "METHYLTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Methyldopa Tablet, 250 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.4,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "METOCLIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Metoclopramide Injection, 5 mg/mL in 2 mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 2.6,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "METOCLSY1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Metoclopramide Syrup, 5 mg/5 mL",
+        "UNIT OF PRICING": "200 mL",
+        "PRICE (GHC)": 12.41,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "METOCLTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Metoclopramide Tablet, 10 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.36,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "METOLATA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Metolazone Tablet, 5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 2.7,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "METTARTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Metoprolol Tartrate Tablet 100 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "METRONIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Metronidazole Injection, 5 mg/mL in 100 mL",
+        "UNIT OF PRICING": "Bottle",
+        "PRICE (GHC)": 2.57,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "METRONRE1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Metronidazole Suppository, 500 mg",
+        "UNIT OF PRICING": "Supp.",
+        "PRICE (GHC)": 2.1,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "METRONSU1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Metronidazole Suspension, 100 mg/5 mL (as benzoate)",
+        "UNIT OF PRICING": "100 mL",
+        "PRICE (GHC)": 3.82,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "METRONSU2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Metronidazole Suspension, 200 mg/5 mL(as benzoate)",
+        "UNIT OF PRICING": "100 mL",
+        "PRICE (GHC)": 5,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "METRONTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Metronidazole Tablet, 200 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.05,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "METRONTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Metronidazole Tablet, 400 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.09,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "MICHYDCR1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Miconazole + Hydrocortisone Cream, 2% + 1%",
+        "UNIT OF PRICING": "15 G",
+        "PRICE (GHC)": 19.5,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "MICONACR1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Miconazole Cream, 2%",
+        "UNIT OF PRICING": "15 G",
+        "PRICE (GHC)": 10,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "MICONAOG1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Miconazole Oral Gel, 25 mg/mL",
+        "UNIT OF PRICING": "40 G",
+        "PRICE (GHC)": 35,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "MICONAVP1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Miconazole Ovule, 400 mg",
+        "UNIT OF PRICING": "3 Ovules",
+        "PRICE (GHC)": 17.9,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "MIDAZOIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Midazolam Injection, 5 mg/5mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 16,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "MIDAZOTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Midazolam Tablet, 15 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 4.9,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "MORPHIIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Morphine Injection, 10 mg/mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 18.72,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "MORPHIIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Morphine Injection, 10 mg/mL (Preservative Free)",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 15.6,
+        "LEVEL OF PRESCRIBING": "SM"
+    },
+    {
+        "CODE": "MORSULTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Morphine Sulphate Tablet, 10 mg (Slow release)",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 4,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "MORSULTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Morphine Sulphate Tablet, 30 mg (Slow release)",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 3.37,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "MULTIVDR1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Multivitamin Drops",
+        "UNIT OF PRICING": "20 mL",
+        "PRICE (GHC)": 10,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "MULTIVSY1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Multivitamin Syrup",
+        "UNIT OF PRICING": "125 mL",
+        "PRICE (GHC)": 2.9,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "MULTIVTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Multivitamin Tablet",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.03,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "NALOXOIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Naloxone Injection, 400 microgram/mL in 1mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 12.5,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "NEOMYCTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Neomycin Tablet, 500 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.05,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "NEOBROTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Neostigmine Bromide Tablet, 15 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 4.9,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "NEOSTIIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Neostigmine Injection, 2.5 mg/mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 11,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "NIFEDICA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Nifedipine Capsule, 10 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": 0.4,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "NIFEDITA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Nifedipine Tablet, 10 mg (slow release)",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.4,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "NIFEDITA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Nifedipine Tablet, 20 mg (slow release)",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.1,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "NIFEDITA3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Nifedipine Tablet, 30 mg (GITS)",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.29,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "NITROFTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Nitrofurantoin Tablet, 100 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1.8,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "NORETHTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Norethisterone Tablet, 5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.93,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "NYSTATOI1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Nystatin Ointment, 100,000 IU",
+        "UNIT OF PRICING": "30 G",
+        "PRICE (GHC)": 18,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "NYSTATTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Nystatin Pessary, 100,000 IU",
+        "UNIT OF PRICING": "Pessary",
+        "PRICE (GHC)": 3.65,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "NYSTATSU1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Nystatin Suspension, 100,000 IU/mL",
+        "UNIT OF PRICING": "15 mL",
+        "PRICE (GHC)": 17,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "NYSTATTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Nystatin Tablet, 500,000 IU",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.73,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "OMEPRAIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Omeprazole Injection, 40 mg",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 12.5,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "OMEPRATA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Omeprazole Tablet, 20 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.1,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "ORRESAPO1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Oral Rehydration Salts Powder",
+        "UNIT OF PRICING": "Sachet",
+        "PRICE (GHC)": 0.47,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "OXYTOCIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Oxytocin Injection, 10 units/mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 5.56,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "OXYTOCIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Oxytocin Injection, 5 units/mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 5,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "PACLITIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Paclitaxel Injection, 100 mg/16.7mL",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 225,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "PARACERE1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Paracetamol Suppository, 125 mg",
+        "UNIT OF PRICING": "Supp",
+        "PRICE (GHC)": 0.71,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "PARACERE2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Paracetamol Suppository, 250 mg",
+        "UNIT OF PRICING": "Supp",
+        "PRICE (GHC)": 0.95,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "PARACERE3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Paracetamol Suppository, 500 mg",
+        "UNIT OF PRICING": "Supp",
+        "PRICE (GHC)": 1.25,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "PARACESY1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Paracetamol Syrup, 120 mg/5 mL",
+        "UNIT OF PRICING": "125 mL",
+        "PRICE (GHC)": 3.24,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "PARACETA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Paracetamol Tablet, 500 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.04,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "PARAFFLI1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Paraffin Liquid",
+        "UNIT OF PRICING": "100 mL",
+        "PRICE (GHC)": 10,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "PETHIDIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Pethidine Injection, 50 mg/mL in 2 mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 10.8,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "PHENOBEL1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Phenobarbital Elixir, 15 mg/5 mL",
+        "UNIT OF PRICING": "100 mL",
+        "PRICE (GHC)": 23.99,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "PHENOBIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Phenobarbital Injection, 200 mg/mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 17.69,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "PHENOBTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Phenobarbital Tablet, 30 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.08,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "PHENOBTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Phenobarbital Tablet, 60 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.1,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "PHENOLIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Phenol 5% in Almond Oil Injection",
+        "UNIT OF PRICING": "50 mL",
+        "PRICE (GHC)": 5.24,
+        "LEVEL OF PRESCRIBING": "SM"
+    },
+    {
+        "CODE": "PHEPENTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Phenoxymethyl Penicillin Tablet, 250 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.12,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "PHENYTIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Phenytoin Injection, 50 mg/mL  in 5 mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 19,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "PHENYTCA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Phenytoin Sodium Capsule, 100 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": 0.4,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "PHENYTTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Phenytoin Sodium Tablet, 100 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.45,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "PHYTOMIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Phytomenadione Injection, 1 mg/mL (Paediatric)",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 3.59,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "PHYTOMIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Phytomenadione Injection, 10 mg/mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 5,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "PILOCAID1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Pilocarpine Eye Drops, 2%",
+        "UNIT OF PRICING": "10 mL",
+        "PRICE (GHC)": 27.1,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "PILOCAID2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Pilocarpine Eye Drops, 4%",
+        "UNIT OF PRICING": "10 mL",
+        "PRICE (GHC)": 32.5,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "PIOGLITA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Pioglitazone Tablet, 15 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.4,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "PIOGLITA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Pioglitazone Tablet, 30 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.5,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "PIRACETA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Piracetam Tablet, 800 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 2.9,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "POTCHLIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Potassium Chloride Injection, 20 mEq/10 mL",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 6.5,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "POTCHLTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Potassium Chloride Tablet, 600 mg (Enteric Coated)",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 7.5,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "POTCITMI1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Potassium Citrate Mixture BP",
+        "UNIT OF PRICING": "200 mL",
+        "PRICE (GHC)": 3,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "POVIDOSO1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Povidone Iodine Aqueous Solution, 10%",
+        "UNIT OF PRICING": "100 mL",
+        "PRICE (GHC)": 13,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "POVIDOOI1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Povidone Iodine Ointment, 10%",
+        "UNIT OF PRICING": "10 G",
+        "PRICE (GHC)": 7,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "PRAZIQTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Praziquantel Tablet, 600 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1.3,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "PRAZOSTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Prazosin Tablet, 500 microgram",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 2.5,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "PREDNIID1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Prednisolone Eye Drops, 0.5%",
+        "UNIT OF PRICING": "10 mL",
+        "PRICE (GHC)": 13,
+        "LEVEL OF PRESCRIBING": "SM"
+    },
+    {
+        "CODE": "PREDNIID2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Prednisolone Eye Drops, 1%",
+        "UNIT OF PRICING": "10 mL",
+        "PRICE (GHC)": 18,
+        "LEVEL OF PRESCRIBING": "SM"
+    },
+    {
+        "CODE": "PREDNITA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Prednisolone Tablet, 5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.08,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "PREDNIDT1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Prednisolone 5mg Dispersible Tablets",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.18,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "PREDNISY1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Prednisolone Oral Solution, 5mg/5ml",
+        "UNIT OF PRICING": "60ml",
+        "PRICE (GHC)": 28,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "PRIMIDTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Primidone Tablet, 250 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 2.1,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "PROBENIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Procaine Benzylpenicillin Injection, 4 MU",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 3,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "PROHYDEL1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Promethazine Hydrochloride Elixir, 5 mg/5 mL",
+        "UNIT OF PRICING": "60 mL",
+        "PRICE (GHC)": 3.5,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "PROHYDIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Promethazine Hydrochloride Injection, 25 mg/mL in 2",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 1,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "PROMETTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Promethazine Hydrochloride Tablet, 25 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.15,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "PROTHETA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Promethazine Theoclate Tablet, 25 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.21,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "PROPRAIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Propranolol Injection, 1 mg/mL in 1mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 1.44,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "PROPRATA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Propranolol Tablet, 10 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.57,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "PROPRATA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Propranolol Tablet, 40 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.1,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "PROPRATA3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Propranolol Tablet, 80 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.11,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "PROPYLTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Propylthiouracil Tablet, 50 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.2,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "PROSULIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Protamine Sulphate Injection, 10 mg/mL in 5 mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 35,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "QUINININ1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Quinine Injection, 300 mg/mL in 2 mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 2.7,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "QUININSY1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Quinine Syrup, 75 mg/5 mL",
+        "UNIT OF PRICING": "125 mL",
+        "PRICE (GHC)": 6,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "QUININTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Quinine Tablet, 300 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.73,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "RAMIPRTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ramipril Tablet, 2.5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.47,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "RAMIPRTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ramipril Tablet, 5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.6,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "RANITITA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ranitidine Tablet, 150 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.48,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "RETSOFCA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Retinol Soft Capsule, 200,000 IU",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": 0.14,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "RINLACSO1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Ringer - Lactate Solution, 500 mL",
+        "UNIT OF PRICING": "500 mL",
+        "PRICE (GHC)": 4.86,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "RISPERLI1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Risperidone Liquid, 1 mg/mL",
+        "UNIT OF PRICING": "10 mL",
+        "PRICE (GHC)": 5.2,
+        "LEVEL OF PRESCRIBING": "SM"
+    },
+    {
+        "CODE": "RISPERTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Risperidone Tablet, 1 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1,
+        "LEVEL OF PRESCRIBING": "SM"
+    },
+    {
+        "CODE": "RISPERTA3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Risperidone Tablet, 2 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.9,
+        "LEVEL OF PRESCRIBING": "SM"
+    },
+    {
+        "CODE": "RISPERTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Risperidone Tablet, 500 microgram",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 2.6,
+        "LEVEL OF PRESCRIBING": "SM"
+    },
+    {
+        "CODE": "SALBUTGA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Salbutamol Inhaler, 100 microgram/metered dose, 200\rdoses",
+        "UNIT OF PRICING": "Inhaler",
+        "PRICE (GHC)": 18.75,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "SALBUTGA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Salbutamol Nebules, 2.5 mg",
+        "UNIT OF PRICING": "Dose",
+        "PRICE (GHC)": 2.5,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "SALBUTGA3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Salbutamol Nebules, 5 mg",
+        "UNIT OF PRICING": "Dose",
+        "PRICE (GHC)": 3.5,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "SALSULIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Salbutamol Sulphate Injection, 500 microgram/mL in\r1mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 7,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "SALBUTSY1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Salbutamol Syrup, 2 mg/5 mL",
+        "UNIT OF PRICING": "200 mL",
+        "PRICE (GHC)": 6,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "SALACIOI1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Salicylic Acid Ointment, 2%",
+        "UNIT OF PRICING": "40G",
+        "PRICE (GHC)": 6.5,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "SECNIDTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Secnidazole Tablet, 500 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 2.42,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "SELSULSH1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Selenium Sulphide Shampoo, 2.5%",
+        "UNIT OF PRICING": "50 mL",
+        "PRICE (GHC)": 22.5,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "SERTRATA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Sertraline Tablet, 100 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1,
+        "LEVEL OF PRESCRIBING": "SM"
+    },
+    {
+        "CODE": "SERTRATA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Sertraline Tablet, 50 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.8,
+        "LEVEL OF PRESCRIBING": "SM"
+    },
+    {
+        "CODE": "SILSULCR1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Silver Sulphadiazine Cream, 1%",
+        "UNIT OF PRICING": "50 G",
+        "PRICE (GHC)": 8,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "SIMLINSY1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Simple Linctus  BPC (Paediatric)",
+        "UNIT OF PRICING": "100mL",
+        "PRICE (GHC)": 2.92,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "SIMLINSY2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Simple Linctus BPC",
+        "UNIT OF PRICING": "100mL",
+        "PRICE (GHC)": 5.53,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "SIMVASTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Simvastatin Tablet, 10 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.4,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "SIMVASTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Simvastatin Tablet, 20 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.55,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "SIMVASTA3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Simvastatin Tablet, 40 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.7,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "SIMVASTA4",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Simvastatin Tablet, 80 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1.88,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "SODBICIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Sodium Bicarbonate Injection, 8.4% in 10 mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 16.8,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "SODCHLIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Sodium Chloride Infusion, 0.45% (250 mL)",
+        "UNIT OF PRICING": "250 mL",
+        "PRICE (GHC)": 4.25,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "SODCHLIN3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Sodium Chloride Infusion, 0.9% (500 mL)",
+        "UNIT OF PRICING": "500 mL",
+        "PRICE (GHC)": 4.86,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "SODVALCA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Sodium Valproate Capsule (Slow Release), 500 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": 3.6,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "SODVALCA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Sodium Valproate Capsule, 200 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": 1.3,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "SODVALSY1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Sodium Valproate Syrup, 200 mg/5 Ml",
+        "UNIT OF PRICING": "300 mL",
+        "PRICE (GHC)": 76.2,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "SODVALTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Sodium Valproate Tablet, 200 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1.2,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "SOANSTOI1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Soothing Agent + Local Anaesthetic + Steroid Ointment",
+        "UNIT OF PRICING": "15 G",
+        "PRICE (GHC)": 31.75,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "SOANSTRE1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Soothing Agent + Local Anaesthetic + Steroid\rSuppository",
+        "UNIT OF PRICING": "Supp",
+        "PRICE (GHC)": 2.96,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "SOOANAOI1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Soothing Agent + Local Anaesthetic Ointment",
+        "UNIT OF PRICING": "15 G",
+        "PRICE (GHC)": 20.4,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "SOOANARE1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Soothing Agent + Local Anaesthetic Suppository",
+        "UNIT OF PRICING": "Supp",
+        "PRICE (GHC)": 1.63,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "SPIRONTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Spironolactone Tablet, 25 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.68,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "SPIRONTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Spironolactone Tablet, 50 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.6,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "STREPTIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Streptokinase Injection, 100,000 unit-vial",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 0.5,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "STREPTIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Streptokinase Injection, 250,000 unit-vial",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 33.35,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "STREPTIN3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Streptokinase Injection, 750,000 unit-vial",
+        "UNIT OF PRICING": "Vial",
+        "PRICE (GHC)": 126,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "SULFASTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Sulfasalazine Tablet, 500 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "TAMOXITA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Tamoxifen Tablet, 10 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 2,
+        "LEVEL OF PRESCRIBING": "SM"
+    },
+    {
+        "CODE": "TAMOXITA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Tamoxifen Tablet, 20 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1.59,
+        "LEVEL OF PRESCRIBING": "SM"
+    },
+    {
+        "CODE": "TAMSULCA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Tamsulosin Capsule, 400 microgram",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": 0.81,
+        "LEVEL OF PRESCRIBING": "SM"
+    },
+    {
+        "CODE": "TERAZOTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Terazosin Tablet, 2 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1.4,
+        "LEVEL OF PRESCRIBING": "SM"
+    },
+    {
+        "CODE": "TERAZOTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Terazosin Tablet, 5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1.72,
+        "LEVEL OF PRESCRIBING": "SM"
+    },
+    {
+        "CODE": "TERBINTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Terbinafine HCl Tablet, 250 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1.8,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "TETRACCA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Tetracycline Capsule, 250 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": 0.13,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "TETRACEO2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Tetracycline Eye Ointment, 1%",
+        "UNIT OF PRICING": "5 G",
+        "PRICE (GHC)": 3,
+        "LEVEL OF PRESCRIBING": "M"
+    },
+    {
+        "CODE": "THEOPHTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Theophylline Tablet, 200 mg (slow release)",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "THIAMIIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Thiamine Injection, 100mg/2mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 14,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "THIAMITA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Thiamine Tablet, 100 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.63,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "THIAMITA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Thiamine Tablet, 50 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.43,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "TIABENTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Tiabendazole Tablet, 500 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 1.93,
+        "LEVEL OF PRESCRIBING": "B1"
+    },
+    {
+        "CODE": "TIMMALID1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Timolol Maleate Eye Drops, 0.5%",
+        "UNIT OF PRICING": "10 mL",
+        "PRICE (GHC)": 10,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "TINIDACA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Tinidazole Capsule, 500 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": 8.24,
+        "LEVEL OF PRESCRIBING": "B2"
+    },
+    {
+        "CODE": "TIROFIIN2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Tirofiban Infusion, 250 micrograms/ml (concentrate)",
+        "UNIT OF PRICING": "100 mL",
+        "PRICE (GHC)": 224,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "TIROFIIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Tirofiban Infusion, 50 micrograms/mL",
+        "UNIT OF PRICING": "100 mL",
+        "PRICE (GHC)": 189.01,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "TOLBUTTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Tolbutamide Tablet, 500 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.71,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "TRAACICA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Tranexamic Acid Capsule, 250 mg",
+        "UNIT OF PRICING": "Capsule",
+        "PRICE (GHC)": 1.75,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "TRAACIIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Tranexamic Acid Injection, 500 mg/5mL",
+        "UNIT OF PRICING": "Ampoule",
+        "PRICE (GHC)": 12,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "TRAACITA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Tranexamic Acid Tablet, 500 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 2.25,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "TRIHEXTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Trihexyphenidyl Tablet, 2 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.35,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "TRIHEXTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Trihexyphenidyl Tablet, 5 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.83,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "VERAPATA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Verapamil Tablet, 40 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.5,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "VERAPATA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Verapamil Tablet, 80 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.69,
+        "LEVEL OF PRESCRIBING": "C"
+    },
+    {
+        "CODE": "WARFARTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Warfarin Tablet, 1 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.21,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "WARFARTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Warfarin Tablet, 3 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.3,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "WARFARTA3",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Warfarin Tablet, 5 mg (scored)",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.35,
+        "LEVEL OF PRESCRIBING": "D"
+    },
+    {
+        "CODE": "WATFORIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Water for Injection",
+        "UNIT OF PRICING": "10 mL",
+        "PRICE (GHC)": 0.5,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "ZINCOOTA1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Zinc Tablet, 10 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.08,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "ZINCOOTA2",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "Zinc Tablet, 20 mg",
+        "UNIT OF PRICING": "Tablet",
+        "PRICE (GHC)": 0.1,
+        "LEVEL OF PRESCRIBING": "A"
+    },
+    {
+        "CODE": "5FLUORIN1",
+        "GENERIC NAME, DOSGE FORM, STRENGTH": "5-Fluorouracil Injection, 50 mg/mL",
+        "UNIT OF PRICING": "10 mL",
+        "PRICE (GHC)": 6.8,
+        "LEVEL OF PRESCRIBING": "D"
+    }
+]
